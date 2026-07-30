@@ -1,0 +1,3 @@
+# Internal project files (managed by the app)
+metadata.yaml
+*.crypto_key
